@@ -1,8 +1,8 @@
-# Toulouka Strategy Accelerator
+# AI Based Strategy Accelerator
 
 **AI-Powered Sales Strategy & Market Intelligence Dashboard for Wood & Metal Industries**
 
-This project is a specialized web application designed for **Toulouka Wood and Metal Industries**. It leverages Large Language Models (LLMs) to analyze global and local news feeds, extract relevant market trends, and generate strategic sales ideas tailored to the company's specific product lines (furniture, home decor, metal products).
+This project is a specialized web application designed for **AI Based Wood and Metal Industries**. It leverages Large Language Models (LLMs) to analyze global and local news feeds, extract relevant market trends, and generate strategic sales ideas tailored to the company's specific product lines (furniture, home decor, metal products).
 
 ## 📋 Table of Contents
 - [Features](#features)
@@ -29,7 +29,7 @@ This project is a specialized web application designed for **Toulouka Wood and M
 
 ### 3. Context-Aware AI
 - Maintains a "Base Context" database (`data.json`) where users can store company-specific information (ERP data, website info, internal notes).
-- AI models reference this context to ensure all generated strategies are relevant to Toulouka's actual business operations.
+- AI models reference this context to ensure all generated strategies are relevant to AI Based's actual business operations.
 
 ### 4. User-Friendly Interface
 - **Dark Mode UI:** Professional, Linux-inspired dark theme for reduced eye strain.
@@ -150,4 +150,4 @@ To extend the application:
 
 ## 📄 License
 
-This project is proprietary software designed for **Toulouka Wood and Metal Industries**. Internal use only.
+This project is proprietary software designed for **AI Based Wood and Metal Industries**. Internal use only.
